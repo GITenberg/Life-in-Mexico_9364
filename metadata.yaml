@@ -1,0 +1,27 @@
+_repo: Life-in-Mexico_9364
+creator:
+  author:
+    agent_name: Calderón de la Barca, Madame (Frances Erskine Inglis)
+    aliases:
+    - Calderon de la Barca, Madame (Frances Erskine Inglis)
+    - Barca, Madame Calderón de la (Frances Erskine Inglis)
+    birthdate: 1804
+    deathdate: 1882
+    gutenberg_agent_id: '3023'
+    url: http://www.gutenberg.org/2009/agents/3023
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Erskine_Inglis
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1201'
+- !lcsh 'Mexico -- Social life and customs'
+- !lcsh 'Mexico -- Description and travel'
+title: Life in Mexico
+url: http://www.gutenberg.org/ebooks/9364
